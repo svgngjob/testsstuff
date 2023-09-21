@@ -1,0 +1,24 @@
+{
+  "name": "testsstuff",
+  "version": "1.0.0",
+  "description": "testsstuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svgngjob/testsstuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svgngjob/testsstuff/issues"
+  },
+  "homepage": "https://github.com/svgngjob/testsstuff#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "request": "^2.88.2"
+  }
+}
